@@ -3,6 +3,8 @@
         by TinyTosha (and some ai`s)
 
     ghrepo: https://github.com/amethyst-bin/luau-definition-plusplus/tree/main
+
+                    dsc.gg/davidhook | discord.gg/davidhook | t.me/snapixzalupa
 ]]--
 
 type Function = (...any) -> any
