@@ -1,6 +1,7 @@
 # LuauDefinition++
 
 ## How to connect
+- Install LSP [Link](https://marketplace.visualstudio.com/items?itemName=JohnnyMorganz.luau-lsp)
 - Create `.vscode`
 - Put `aio.d.luau` in `.vscode`
 - Create `settings.json` in `.vscode`
