@@ -1,3 +1,10 @@
+--[[
+    LuauDefination++
+        by TinyTosha (and some ai`s)
+
+    ghrepo: https://github.com/amethyst-bin/luau-definition-plusplus/tree/main
+]]--
+
 type Function = (...any) -> any
 type DebugInfo = string | number | Function
 type FunctionDrawnObject = {
