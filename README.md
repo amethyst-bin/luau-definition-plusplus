@@ -8,7 +8,8 @@
 // .vscode/settings.json
 {
   "luau-lsp.types.definitionFiles": [
-    ".vscode/aio.d.luau",
+    ".vscode/aio.d.luau", // executors types
+    ".vscode/globalTypes.d.luau", // all roblox types
   ],
 
 }
