@@ -4,14 +4,14 @@
 ### VScode / Codium
 - Install LSP [Link](https://marketplace.visualstudio.com/items?itemName=JohnnyMorganz.luau-lsp)
 - Create `.vscode`
-- Put `aio.d.luau` in `.vscode`
+- Clone repo into `.vscode` folder
 - Create `settings.json` in `.vscode`
 ```jsonc
 // .vscode/settings.json
 {
   "luau-lsp.types.definitionFiles": [
-    ".vscode/aio.d.luau", // executors types
-    ".vscode/globalTypes.d.luau", // all roblox types
+    ".vscode/luau-definition-plusplus/aio.d.luau", // executors types
+    ".vscode/luau-definition-plusplus/globalTypes.d.luau", // all roblox types
   ],
 
 }
