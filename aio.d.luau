@@ -713,6 +713,7 @@ type NullUISection = {
         Flag: string?,
         Values: {any}?,
         Default: any?,
+        MultiSelect: boolean?,
         Callback: ((value: any) -> ())?
     }) -> NullUIDropdown,
     AddTextbox: (self: NullUISection, options: {
