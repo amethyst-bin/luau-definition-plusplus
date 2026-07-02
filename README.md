@@ -1,6 +1,7 @@
 # LuauDefinition++
 
 ## How to connect
+### VScode / Codium
 - Install LSP [Link](https://marketplace.visualstudio.com/items?itemName=JohnnyMorganz.luau-lsp)
 - Create `.vscode`
 - Put `aio.d.luau` in `.vscode`
@@ -16,6 +17,9 @@
 }
 ```
 - `Ctrl + Shift + P` > Luau: Reload Language Server
+### Zed
+- idk
+- if it worked for zen pls dm me in discord i wanna know `tinytosha`
 
 ## Feutares
 - All injectors env libs (unc, sunc and more)
